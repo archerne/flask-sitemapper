@@ -18,3 +18,5 @@ build/
 Icon^M
 Thumbs.db
 [Dd]esktop.ini
+
+.venv/
